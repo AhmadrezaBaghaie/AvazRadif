@@ -1,0 +1,93 @@
+[
+  {
+    "name": "01. Dastgah Shour",
+    "artist": "Abbas Kazemi",
+    "image": "Avaz - Kazemi/cover art.png",
+    "path": "Avaz - Kazemi/Playlist/01. Dastgah Shour.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "02. Avaz Abuata",
+    "artist": "Abbas Kazemi",
+    "image": "Avaz - Kazemi/cover art.png",
+    "path": "Avaz - Kazemi/Playlist/02. Avaz Abuata.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "03. Avaz Afshari",
+    "artist": "Abbas Kazemi",
+    "image": "Avaz - Kazemi/cover art.png",
+    "path": "Avaz - Kazemi/Playlist/03. Avaz Afshari.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "04. Avaz Bayate Tork",
+    "artist": "Abbas Kazemi",
+    "image": "Avaz - Kazemi/cover art.png",
+    "path": "Avaz - Kazemi/Playlist/04. Avaz Bayate Tork.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "05. Avaz Dashti",
+    "artist": "Abbas Kazemi",
+    "image": "Avaz - Kazemi/cover art.png",
+    "path": "Avaz - Kazemi/Playlist/05. Avaz Dashti.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "06. Dastgah Nava",
+    "artist": "Abbas Kazemi",
+    "image": "Avaz - Kazemi/cover art.png",
+    "path": "Avaz - Kazemi/Playlist/06. Dastgah Nava.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "07. Dastgah Mahour",
+    "artist": "Abbas Kazemi",
+    "image": "Avaz - Kazemi/cover art.png",
+    "path": "Avaz - Kazemi/Playlist/07. Dastgah Mahour.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "08. Dastgah Segah",
+    "artist": "Abbas Kazemi",
+    "image": "Avaz - Kazemi/cover art.png",
+    "path": "Avaz - Kazemi/Playlist/08. Dastgah Segah.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "09. Avaz Segah Ghafghaz",
+    "artist": "Abbas Kazemi",
+    "image": "Avaz - Kazemi/cover art.png",
+    "path": "Avaz - Kazemi/Playlist/09. Avaz Segah Ghafghaz.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "10. Dastgah Chahargah",
+    "artist": "Abbas Kazemi",
+    "image": "Avaz - Kazemi/cover art.png",
+    "path": "Avaz - Kazemi/Playlist/10. Dastgah Chahargah.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "11. Dastgah Rastpanjgah",
+    "artist": "Abbas Kazemi",
+    "image": "Avaz - Kazemi/cover art.png",
+    "path": "Avaz - Kazemi/Playlist/11. Dastgah Rastpanjgah.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "12. Dastgah Homayoun & Avaz Bayate Esfahan",
+    "artist": "Abbas Kazemi",
+    "image": "Avaz - Kazemi/cover art.png",
+    "path": "Avaz - Kazemi/Playlist/12. Dastgah Homayoun & Avaz Bayate Esfahan.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "13. Avaz Bayate Esfahan",
+    "artist": "Abbas Kazemi",
+    "image": "Avaz - Kazemi/cover art.png",
+    "path": "Avaz - Kazemi/Playlist/13. Avaz Bayate Esfahan.mp3",
+    "folder": "Playlist"
+  }
+]
